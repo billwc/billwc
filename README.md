@@ -12,13 +12,14 @@ I work on data science and machine learning projects.
 ## 📊 Data Visualizations
 
 I also create interactive dashboards on **Tableau Public**:  
-- [IPEDS](https://public.tableau.com/shared/FRJY5QR7R?:display_count=n&:origin=viz_share_link)  
-
+- [Post Secondary Institution Assessment Tool](https://public.tableau.com/shared/FRJY5QR7R?:display_count=n&:origin=viz_share_link)  
+  Dashboard that compares metrics by US university and colleges.
+  
 ## 🛠️ Tech Stack
 - Python (Pandas, NumPy, Scikit-learn, Statsmodels, Matplotlib)  
 - Jupyter Notebooks  
 - Git & GitHub  
 
 ## 📫 Get in Touch
-- LinkedIn: [your-link]
+- LinkedIn: [www.linkedin.com/in/billchang](www.linkedin.com/in/billchang)
 - Email: bill.chang1@outlook.com 
