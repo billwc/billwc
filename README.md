@@ -9,6 +9,11 @@ I work on data science and machine learning projects.
 - [Hotel Booking Cancellation Prediction](https://github.com/your-username/hotel-booking-cancellation-prediction)  
   Machine learning model (Random Forest) to predict cancellations.  
 
+## 📊 Data Visualizations
+
+I also create interactive dashboards on **Tableau Public**:  
+- [IPEDS](https://public.tableau.com/shared/FRJY5QR7R?:display_count=n&:origin=viz_share_link)  
+
 ## 🛠️ Tech Stack
 - Python (Pandas, NumPy, Scikit-learn, Statsmodels, Matplotlib)  
 - Jupyter Notebooks  
