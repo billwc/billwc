@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi, I'm Bill 👋  
 
-<!--
-**billwc/billwc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub!  
+I work on data science and machine learning projects.  
 
-Here are some ideas to get you started:
+## 🔬 Projects
+- [Electricity Production Time Series](https://github.com/your-username/electricity-production-timeseries)  
+  Forecasting electricity production using Holt-Winters and other time series models.  
+- [Hotel Booking Cancellation Prediction](https://github.com/your-username/hotel-booking-cancellation-prediction)  
+  Machine learning model (Random Forest) to predict cancellations.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech Stack
+- Python (Pandas, NumPy, Scikit-learn, Statsmodels, Matplotlib)  
+- Jupyter Notebooks  
+- Git & GitHub  
+
+## 📫 Get in Touch
+- LinkedIn: [your-link]
+- Email: bill.chang1@outlook.com 
