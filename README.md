@@ -4,10 +4,13 @@ Welcome to my GitHub!
 I work on data science and machine learning projects.  
 
 ## 🔬 Projects
-- [Electricity Production Time Series](https://github.com/your-username/electricity-production-timeseries)  
-  Forecasting electricity production using Holt-Winters and other time series models.  
-- [Hotel Booking Analysis](https://github.com/billwc/hotel-bookings-analysis)
-  Deploy machine learning models to predict cancellations.  
+
+- [**Electricity Production Time Series**](https://github.com/billwc/electricity-production-forecasting)  
+  Forecasting electricity production using Holt-Winters and other time series models.
+
+- [**Hotel Booking Analysis**](https://github.com/billwc/hotel-bookings-analysis)  
+  Deploy machine learning models to predict hotel booking cancellations.
+
 
 ## 📊 Data Visualizations
 
