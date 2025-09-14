@@ -11,6 +11,8 @@ I work on data science and machine learning projects.
 - [**Hotel Booking Analysis**](https://github.com/billwc/hotel-bookings-analysis)  
   Deploy machine learning models to predict hotel booking cancellations.
 
+- [**Bike Sharing Analysis**](https://github.com/billwc/bike-sharing-analysis)  
+  Deploy machine learning models to predict number of bike sharing bookings.
 
 ## 📊 Data Visualizations
 
